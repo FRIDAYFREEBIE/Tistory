@@ -12,6 +12,6 @@
 ---
 
 ## ✅ 
-[![Tistory](https://fridayfreebie.tistory.com)]
+[티스토리 이동](https://fridayfreebie.tistory.com/)
 
 ---
