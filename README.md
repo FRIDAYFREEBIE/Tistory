@@ -12,6 +12,6 @@
 ---
 
 ## ✅ 
-[![Tistory](https://fridayfreebie.tistory.com)
+[![Tistory](https://fridayfreebie.tistory.com)]
 
 ---
