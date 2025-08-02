@@ -12,6 +12,6 @@
 ---
 
 ## ✅ 티스토리
-[티스토리 이동](https://fridayfreebie.tistory.com/)
+[티스토리 이동](https://fridayfreebie.tistory.com/category/%EC%9C%A0%EB%8B%88%ED%8B%B0%20C%23)
 
 ---
